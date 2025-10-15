@@ -1,11 +1,10 @@
 import streamlit as st
-from PIL import Image
 
 
 
 st.set_page_config(page_title="Sparkle And Shine", page_icon=":heart:", layout="wide")
 contact_form = """
-<form action="https://formsubmit.co/levivknight777@gmail.com" method="POST">
+<form action="https://formsubmit.co/asht4664@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your Name" required>
      <input type="text" name="address" placeholder="Your Address" required>
